@@ -9,7 +9,7 @@ Este proyecto forma parte del trabajo integrador de la materia **Programación I
 
 ## Caso Práctico
 1. Cloná el repositorio:
-git clone https://github.com/grupo-analisis-algoritmos/analisis-python.git
+git clone https://github.com/luisvega2023/Integrador-Programaci-n.git
 
 2. Ejecutá el script en una terminal con Python:
 python palindromos.py
